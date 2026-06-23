@@ -35,6 +35,9 @@ Creator videos can work because the messenger changes.
 The same product and offer can perform differently when the ad appears to come
 from a person the audience already trusts.
 
+For the full setup, access, rights, and testing workflow, load
+`playbooks/youtube-creator-partnerships-playbook.md`.
+
 When evaluating creator videos, compare:
 
 - creator organic baseline

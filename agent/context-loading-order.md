@@ -48,6 +48,15 @@ Load the files that match the job.
 6. `playbooks/safety-and-change-management.md`
 7. `templates/experiment-plan.md`
 
+## YouTube Creator Partnership Test
+
+1. system prompt
+2. `playbooks/youtube-creator-partnerships-playbook.md`
+3. `playbooks/demand-gen-youtube-playbook.md`
+4. `playbooks/reporting-and-measurement.md`
+5. `playbooks/safety-and-change-management.md`
+6. `templates/experiment-plan.md`
+
 ## Budget Or Bid Decision
 
 1. system prompt

@@ -33,6 +33,7 @@ diagnosis, and decision support faster, more consistent, and easier to audit.
 - [Search campaigns playbook](playbooks/search-campaigns-playbook.md)
 - [AI Max for Search playbook](playbooks/ai-max-search-playbook.md)
 - [Demand Gen and YouTube playbook](playbooks/demand-gen-youtube-playbook.md)
+- [YouTube creator partnerships playbook](playbooks/youtube-creator-partnerships-playbook.md)
 - [Merchant Center and feed playbook](playbooks/merchant-center-feed-playbook.md)
 - [Bidding playbook](playbooks/bidding-playbook.md)
 - [Audience playbook](playbooks/audience-playbook.md)
@@ -58,6 +59,7 @@ For example:
 - Weekly account review: Monday operating system + reporting + measurement
 - Shopping issue: Merchant Center feed + Google Shopping + reporting
 - PMax audit: Performance Max + Merchant Center feed + bidding + measurement
+- YouTube creator partnership test: YouTube creator partnerships + Demand Gen and YouTube + measurement + safety
 - Budget decision: reporting + bidding + safety
 - Search waste review: Search campaigns + daily optimization + safety
 
