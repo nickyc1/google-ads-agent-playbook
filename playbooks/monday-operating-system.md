@@ -25,12 +25,13 @@ Pull at minimum:
 
 The agent should answer:
 
-- What made money?
-- What wasted money?
-- What broke?
-- What changed?
-- What needs a human decision?
-- What should be ignored for now?
+- Was the last 7 days profitable or not?
+- What changed versus the previous 7 days?
+- What won?
+- What needs attention?
+- What opportunities should get more traffic or budget?
+- What moves should happen this week?
+- What action items are still pending from Slack and meeting notes?
 
 ## Decision Rules
 
@@ -80,6 +81,25 @@ and the winner is not just branded or remarketing traffic in disguise.
 Cut when spend crossed the stop-loss threshold and the leading indicators do
 not justify more learning.
 
+## Action Items From Slack And Meeting Notes
+
+The Monday memo should include operational context from Slack and meeting
+notes, not only ad-platform data.
+
+Use Slack and Granola MCPs, CLIs, exports, or APIs where available to pull:
+
+- open asks
+- blockers
+- owner mentions
+- promised campaign changes
+- tracking or feed issues
+- promo, launch, or inventory context
+- meeting action items
+- unanswered questions
+
+The agent should dedupe these into a short weekly action list with owner,
+source, due date, status, and why it matters to Google Ads performance.
+
 ## Output
 
 The operator should leave Monday with:
@@ -89,5 +109,6 @@ The operator should leave Monday with:
 - 0 to 2 new tests
 - a short list of feed or tracking fixes
 - one written reason for every meaningful decision
+- a short list of pending cross-functional action items
 
 If Monday produces 17 recommendations, the agent did not prioritize.

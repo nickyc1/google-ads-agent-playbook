@@ -1,100 +1,138 @@
 # Google Ads Monday Memo
 
-Date:
-Account:
-Reporting window:
-Comparison window:
-Prepared by:
+Use this as the weekly Google Ads operator memo.
 
-## Executive Read
+The report should answer one question first:
 
-- Spend:
-- Revenue:
-- Profit / margin if available:
-- Purchases or qualified conversions:
-- CPA / ROAS:
-- Budget pacing:
-- Biggest decision:
+Did the last 7 days make money or not?
 
-## What Made Money
+Then it should show the few things that matter this week.
 
-| Area | Evidence | Why It Matters | Action |
-|---|---|---|---|
-| | | | |
+```text
+📊 Google Ads — Last 7 Days ({start_date} → {end_date})
 
-## What Wasted Money
+{profit_status_icon} {profitable_or_unprofitable} week · ${spend} spend → ${profit} profit ({profit_to_spend} P:S)
+Date generated: {generated_date}
+Main thing to watch: {short_watch_item}
 
-| Area | Evidence | Why It Matters | Action |
-|---|---|---|---|
-| | | | |
+Last 7 Days
+• Spend: ${spend} ({spend_delta} vs previous 7 days)
+• Gross Sales: ${gross_sales}
+• Gross Profit: ${gross_profit}
+• Profit : Spend: {profit_to_spend} (target ≥ {target_profit_to_spend})
+• Buyers: {buyers_total} ({new_buyers} new / {returning_buyers} returning)
+• New Buyer %: {new_buyer_percent} (target {new_buyer_target})
+• CAC (New): ${new_cac} (target ≤ ${new_cac_target})
+• New Buyer Profit: ${new_buyer_profit} ({new_buyer_profit_percent} of spend, goal {new_buyer_profit_goal})
 
-## What Broke
+Month to Date
+• Spend: ${mtd_spend}
+• Gross Profit: ${mtd_gross_profit}
+• Profit : Spend: {mtd_profit_to_spend}
+• Buyers: {mtd_buyers_total} ({mtd_new_buyers} new / {mtd_returning_buyers} returning)
+• CAC (New): ${mtd_new_cac}
+• New Buyer Profit: ${mtd_new_buyer_profit} ({mtd_new_buyer_profit_percent} of spend, goal {new_buyer_profit_goal})
+• Pacing: forecast ${forecast_spend_or_profit} vs goal ${goal} ({pacing_delta}, {pacing_delta_percent})
+  {days_elapsed}/{days_in_period} days · ${daily_run_rate}/day run rate · {days_remaining} days remaining
 
-| Issue | Evidence | Impact | Owner | Fix |
-|---|---|---|---|---|
-| | | | | |
+────────────────────
 
-## What Changed
+🏆 Wins
+• {win_1_name} — {win_1_metric} · ${win_1_spend} spend · {why_it_matters}
+• {win_2_name} — {win_2_metric} · ${win_2_spend} spend · {why_it_matters}
+• {win_3_name} — {win_3_metric} · ${win_3_spend} spend · {why_it_matters}
 
-| Change | Date | Expected / Unexpected | Impact |
-|---|---|---|---|
-| | | | |
+⚠️ Watch / Worry
+• {worry_1_name} — {worry_1_metric} · ${worry_1_spend} spend · {problem}
+• {worry_2_name} — {worry_2_metric} · ${worry_2_spend} spend · {problem}
 
-## Feed / Merchant Center
+🚀 Opportunities
+• {opportunity_1} — {opportunity_1_signal} → {recommended_action}
+• {opportunity_2} — {opportunity_2_signal} → {recommended_action}
+• {opportunity_3} — {opportunity_3_signal} → {recommended_action}
 
-- Product count changes:
-- Disapprovals:
-- Warnings:
-- Price / availability mismatch:
-- Feed freshness:
-- High-value products affected:
+────────────────────
 
-## Measurement Notes
+🎯 This Week's Moves
+1. {move_1_icon} {move_1_action} — {move_1_reason}
+2. {move_2_icon} {move_2_action} — {move_2_reason}
+3. {move_3_icon} {move_3_action} — {move_3_reason}
+4. {move_4_icon} {move_4_action} — {move_4_reason}
 
-- Conversion action issues:
-- Attribution caveats:
-- Revenue source mismatch:
-- Conversion lag:
-- Brand / non-brand mix:
+✅ Action Items From Slack + Granola
+1. {action_item_1} — owner: {owner} · source: {slack_or_granola_link} · due: {due_date}
+2. {action_item_2} — owner: {owner} · source: {slack_or_granola_link} · due: {due_date}
+3. {action_item_3} — owner: {owner} · source: {slack_or_granola_link} · due: {due_date}
 
-## Recommended Decisions
+Priority for this week:
+{one_sentence_priority}
 
-### 1.
+Automated with {workflow_or_agent_link}
+```
 
-Observation:
+## Data Requirements
 
-Impact:
+The last 7 days section should come from ad platform, ecommerce, analytics, and
+margin data.
 
-Evidence:
+The action-items section should come from Slack and meeting notes.
 
-Recommended action:
+If available, pull:
 
-Risk:
+- open Slack asks, decisions, blockers, and owner mentions
+- Granola meeting notes, action items, unanswered questions, and follow-ups
+- previous Monday memo action items that remain unfinished
+- campaign changes promised in Slack but not yet applied
+- tracking, feed, landing-page, creative, or budget issues mentioned in meetings
 
-Confidence:
+## Slack + Granola Recap Instructions
 
-Rollback:
+Use Slack and Granola MCPs, CLIs, exports, or APIs where available.
 
-### 2.
+Search for:
 
-Observation:
+- Google Ads
+- Merchant Center
+- campaign names
+- product/feed issues
+- tracking or attribution issues
+- landing-page issues
+- budget or pacing conversations
+- promo, launch, or inventory context
+- explicit phrases like "todo", "follow up", "blocked", "next week", "need to"
 
-Impact:
+For every action item, capture:
 
-Evidence:
+- task
+- owner
+- source
+- date mentioned
+- due date if available
+- status
+- why it matters to this week's Google Ads priorities
 
-Recommended action:
+## Writing Rules
 
-Risk:
+- Replace "yesterday" with "last 7 days."
+- Keep the generated date in the header.
+- Use real numbers.
+- Do not include every campaign. Surface the few that matter.
+- Do not include private campaign names in public examples.
+- Use generic placeholders when publishing examples.
+- Keep the memo short enough to read in Slack.
+- End with decisions and action items, not analysis drift.
 
-Confidence:
+## Status Icons
 
-Rollback:
+Suggested icons:
 
-## Watchlist
-
--
-
-## Ignore For Now
-
--
+- 🟢 profitable / on target
+- 🟡 mixed / watch
+- 🔴 unprofitable / off target
+- 🏆 win
+- ⚠️ watch or worry
+- 🚀 opportunity
+- ✂️ cut
+- 📈 scale
+- 🧪 test
+- 🛠️ fix
