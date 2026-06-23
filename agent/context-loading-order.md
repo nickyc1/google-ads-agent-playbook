@@ -38,6 +38,16 @@ Load the files that match the job.
 3. `playbooks/daily-optimization-workflow.md`
 4. `playbooks/safety-and-change-management.md`
 
+## AI Max For Search Test
+
+1. system prompt
+2. `playbooks/search-campaigns-playbook.md`
+3. `playbooks/ai-max-search-playbook.md`
+4. `playbooks/bidding-playbook.md`
+5. `playbooks/reporting-and-measurement.md`
+6. `playbooks/safety-and-change-management.md`
+7. `templates/experiment-plan.md`
+
 ## Budget Or Bid Decision
 
 1. system prompt

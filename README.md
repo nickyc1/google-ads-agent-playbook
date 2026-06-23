@@ -31,6 +31,7 @@ diagnosis, and decision support faster, more consistent, and easier to audit.
 - [Google Shopping playbook](playbooks/google-shopping-playbook.md)
 - [Performance Max playbook](playbooks/performance-max-playbook.md)
 - [Search campaigns playbook](playbooks/search-campaigns-playbook.md)
+- [AI Max for Search playbook](playbooks/ai-max-search-playbook.md)
 - [Demand Gen and YouTube playbook](playbooks/demand-gen-youtube-playbook.md)
 - [Merchant Center and feed playbook](playbooks/merchant-center-feed-playbook.md)
 - [Bidding playbook](playbooks/bidding-playbook.md)

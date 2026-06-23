@@ -17,6 +17,23 @@ Use Search for:
 - landing-page and message tests
 - query mining
 
+## AI Max For Search
+
+AI Max is a Search automation layer for scaling and intent discovery.
+
+Use the dedicated [AI Max for Search playbook](ai-max-search-playbook.md) when
+you are considering it.
+
+Short version:
+
+- Broad match is a keyword match type.
+- AI Max is a suite of AI-powered Search features.
+- It can expand matching, customize text, and optionally expand final URLs.
+- It needs Smart Bidding and clean conversion data.
+- It is best tested on campaigns that already work.
+- It should be reviewed through AI Max search term, headline, and landing-page
+  reporting.
+
 ## Brand Versus Non-Brand
 
 Separate brand and non-brand reporting.
