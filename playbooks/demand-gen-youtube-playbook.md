@@ -5,6 +5,11 @@ education, remarketing, or creator-led distribution.
 
 They should not be judged exactly like bottom-of-funnel Search.
 
+Demand Gen can also function as a serious ecommerce cold-traffic channel when
+the account has strong creative, clean conversion signals, and focused tests.
+Treat it like a creative-led growth system, not just a small YouTube support
+campaign.
+
 ## Useful Jobs
 
 - creator partnership videos
@@ -15,6 +20,8 @@ They should not be judged exactly like bottom-of-funnel Search.
 - short-form video testing
 - broad demand creation
 - warming audiences before Search or Shopping demand
+- seasonal offer amplification
+- comparison or category-page traffic
 
 ## Creative Checks
 
@@ -27,6 +34,20 @@ For video assets, check:
 - is the CTA clear?
 - does the landing page continue the same promise?
 - are different hooks being tested?
+- are image, square, vertical, and horizontal formats covered where relevant?
+- does each creative angle point to the right product or landing page?
+
+## Operating Rules
+
+- Separate cold prospecting from warm non-buyer remarketing when learning
+  matters.
+- Keep one campaign focused on one major hypothesis.
+- Avoid too many ad groups, audiences, and videos inside a small budget.
+- Use channel and placement controls when the account needs to learn which
+  surfaces are working.
+- Watch downstream impact, including branded search, returning visitors, and
+  assisted conversions.
+- Scale only after purchase or conversion-value signal is clean.
 
 ## Creator Videos
 
