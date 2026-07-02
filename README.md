@@ -25,6 +25,7 @@ diagnosis, and decision support faster, more consistent, and easier to audit.
 3. [Monday operating system](playbooks/monday-operating-system.md)
 4. [Reporting and measurement](playbooks/reporting-and-measurement.md)
 5. [Daily optimization workflow](playbooks/daily-optimization-workflow.md)
+6. [2026 Google Ads management playbook](playbooks/2026-google-ads-management-playbook.md)
 
 ## Core Playbooks
 
@@ -32,6 +33,7 @@ diagnosis, and decision support faster, more consistent, and easier to audit.
 - [Performance Max playbook](playbooks/performance-max-playbook.md)
 - [Search campaigns playbook](playbooks/search-campaigns-playbook.md)
 - [AI Max for Search playbook](playbooks/ai-max-search-playbook.md)
+- [2026 Google Ads management playbook](playbooks/2026-google-ads-management-playbook.md)
 - [Strategic growth principles](playbooks/strategic-growth-principles.md)
 - [Demand Gen and YouTube playbook](playbooks/demand-gen-youtube-playbook.md)
 - [YouTube creator partnerships playbook](playbooks/youtube-creator-partnerships-playbook.md)
