@@ -86,6 +86,12 @@ Operating rules:
 The goal is not to suppress brand revenue. The goal is to stop brand revenue
 from hiding weak acquisition.
 
+PMax deserves extra scrutiny here. It is not inherently retargeting, but it is
+an ROI optimizer. If branded traffic, recent visitors, and returning customers
+are the easiest conversions, PMax will often lean there unless the campaign job,
+feed, customer signals, brand exclusions, product eligibility, creative, and
+landing pages all support acquisition.
+
 ## 5. Treat Merchant Center As The Product Truth Layer
 
 For ecommerce, the feed is not backend plumbing. It is advertising
@@ -362,4 +368,3 @@ Every recommendation should include:
 
 If the recommendation cannot explain what job the campaign is hired to do, it
 is not ready.
-

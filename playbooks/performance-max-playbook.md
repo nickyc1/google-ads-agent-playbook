@@ -124,6 +124,42 @@ What ROAS does Google Ads show?
 
 In-platform ROAS can be useful, but it is not the business truth by itself.
 
+## PMax As An Acquisition System
+
+PMax is not automatically a retargeting campaign.
+
+But it is an ROI optimizer, and ROI optimizers naturally chase the easiest
+conversions available. In many ecommerce accounts, the easiest conversions are
+branded searches, recent visitors, cart abandoners, and returning customers.
+
+That is why unmanaged PMax can feel like a black-box retargeting bucket.
+
+To make PMax work harder for acquisition, define the job and the inputs:
+
+- use brand exclusions when the campaign is meant to prospect
+- keep customer lists fresh for reporting, exclusions, and signals
+- use new-customer acquisition settings only when customer identification is
+  reliable
+- make sure priority products are eligible, labeled, in stock, and economically
+  worth pushing
+- write feed titles and product pages for non-brand buyer language
+- build asset groups around specific product families and buyer use cases
+- use search themes and audience signals to describe the acquisition target
+- send traffic to product, collection, seasonal, or comparison pages that match
+  the buyer's intent
+
+The operating question is:
+
+```text
+What new demand did PMax help create or capture?
+```
+
+Not:
+
+```text
+How much blended revenue did PMax report?
+```
+
 ## Final URL Expansion
 
 Final URL expansion can help PMax find relevant pages.
