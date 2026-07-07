@@ -37,6 +37,33 @@ For video assets, check:
 - are image, square, vertical, and horizontal formats covered where relevant?
 - does each creative angle point to the right product or landing page?
 
+## Native Image Ads
+
+Demand Gen image ads should be treated as content-feed ads, not static display
+banners.
+
+The image, headline, description, placement, and landing page should all belong
+to the same intent cluster.
+
+Useful clusters:
+
+| Cluster | Best For | Creative Feel | Landing Page |
+| --- | --- | --- | --- |
+| Informational | Problem-aware prospects researching symptoms, mistakes, myths, or outcomes | Editorial, educational, problem-focused, curiosity-driven | Advertorial, quiz, buying guide |
+| Comparison | Prospects evaluating options or looking for shortcuts | Ranked lists, review-style layouts, side-by-side comparisons | Best-of page, comparison page, ranked review page |
+| Offer focused | Warmer prospects or obvious product categories | Product/offer first, bundle visual, direct promo | Sale page, bundle page, offer-led product page |
+
+Placement fit matters:
+
+- YouTube in-feed behaves more like thumbnail competition. Use stronger
+  contrast, clearer product or problem visuals, and curiosity.
+- Discover behaves more like editorial/content discovery. Use guide-style,
+  article-style, or recommendation-style creative that feels native to the feed.
+
+Avoid mixing unrelated intent inside one asset pool. A curiosity image, sale
+headline, generic description, and generic product page may all be usable on
+their own, but together they create muddy combinations and weak learning.
+
 ## Operating Rules
 
 - Separate cold prospecting from warm non-buyer remarketing when learning
