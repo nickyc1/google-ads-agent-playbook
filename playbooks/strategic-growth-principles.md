@@ -1,6 +1,6 @@
 # Strategic Growth Principles
 
-Last updated: 2026-07-01
+Last updated: 2026-10-08
 
 These are high-level Google Ads principles for ecommerce accounts. They are
 written as operating rules for an AI agent or human operator, not as a list of
@@ -122,11 +122,13 @@ Aggressive budget scaling should come after:
 
 The goal is not to avoid tests. The goal is to avoid scaling noise.
 
-## 9. Advanced Feed Tactics Come Last
+## 9. Preserve Product Identity During Feed Tests
 
-Duplicate feeds, multiple listings, and aggressive title variants can expand
-surface area, but they add operational and policy risk. Try them only after
-feed health, measurement, product identity, and rollback paths are reliable.
+Do not manufacture duplicate offers or new IDs for the same product just to
+gain extra listings. Preserve stable product identity and test truthful title,
+image, or attribute changes through supported feed workflows. Genuine variants
+must be represented accurately. Feed health does not make a duplicate-listing
+scheme safe; review current Merchant Center requirements before advanced tests.
 
 ## 10. Daily Recommendations Need Context
 
@@ -138,4 +140,3 @@ Every recommendation should classify the campaign first:
 
 Then recommend the action. A bad test should not cause unnecessary cuts to the
 evergreen engine, and a good branded day should not hide weak acquisition.
-

@@ -1,5 +1,8 @@
 # Demand Gen And YouTube Playbook
 
+For the Meta-to-Google creative workflow, test gates, and acquisition
+measurement, use the [Demand Gen execution system](demand-gen/README.md).
+
 Demand Gen and YouTube are useful when the account needs visual demand,
 education, remarketing, or creator-led distribution.
 

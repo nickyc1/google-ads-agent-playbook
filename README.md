@@ -36,6 +36,8 @@ diagnosis, and decision support faster, more consistent, and easier to audit.
 - [2026 Google Ads management playbook](playbooks/2026-google-ads-management-playbook.md)
 - [Strategic growth principles](playbooks/strategic-growth-principles.md)
 - [Demand Gen and YouTube playbook](playbooks/demand-gen-youtube-playbook.md)
+- [Demand Gen creative acquisition system](playbooks/demand-gen/README.md)
+- [Commerce testing and merchandising workflows](playbooks/commerce-testing-and-merchandising.md)
 - [YouTube creator partnerships playbook](playbooks/youtube-creator-partnerships-playbook.md)
 - [Merchant Center and feed playbook](playbooks/merchant-center-feed-playbook.md)
 - [Bidding playbook](playbooks/bidding-playbook.md)
